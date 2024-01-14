@@ -17,4 +17,4 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 👤 **Richard DiazDeLeon**
 
 * LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@dsrichard97](https://github.com/arasgungore)
+* GitHub: [@dsrichard97](https://github.com/dsrichard97)
