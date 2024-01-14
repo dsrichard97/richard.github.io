@@ -1,6 +1,6 @@
 # richard.github.io
 
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://dsrichard97.github.io/richard.github.io/).
+My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://dsrichard97.github.io/web/).
 
 
 
